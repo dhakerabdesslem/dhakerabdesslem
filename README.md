@@ -4,5 +4,5 @@
 
 ## I'm a Back-End web Developer, and Student!
 
-- 🌱 I’m currently improving my Node.JS & React.JS skills 
+- 🌱 I’m currently improving my Node.JS skills 
 - 👯 Currently, I'm a Web Developer student
