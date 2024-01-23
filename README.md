@@ -6,3 +6,13 @@
 
 - 🌱 I’m currently improving my Node.JS skills 
 - 👯 Currently, I'm a Web Developer student
+
+## 👨‍💻 Skills
+- HTML/CSS/JS
+- Javascript, NodeJs, 
+- React, Nextjs,
+- MySQL, MongoDB
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40r.rah_ul-orange)](https://www.instagram.com/dhaker.abdesslem/)
+[![Email](https://img.shields.io/badge/Email-admin%40rahul.eu.org-blue)](mailto:dhakerabdeslem@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahul.eu.org-green)](https://dhakerabdesslem.com)
