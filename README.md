@@ -14,5 +14,5 @@
 - MySQL, MongoDB
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40dhaker.abdesslem-orange)](https://www.instagram.com/dhaker.abdesslem/)
-[![Email](https://img.shields.io/badge/Email-admin%40contact@dhakerabdesslem.com-blue)](mailto:contact@dhakerabdesslem.com)
+[![Email](https://img.shields.io/badge/Email-contact@dhakerabdesslem.com-blue)](mailto:contact@dhakerabdesslem.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhakerabdesslem.com-green)](https://dhakerabdesslem.com)
