@@ -75,7 +75,6 @@ En tant que Secrétaire Général de la JCI Ouardanine, Dhaker gère les fonctio
 
 ## Liens externes
 
-- **Site web personnel** : [dhaker.me](https://dhaker.me)  
 - **Instagram** : [@abdesslemdhaker](https://www.instagram.com/abdesslemdhaker)  
 - **LinkedIn** : [Dhaker Abdesslem](https://www.linkedin.com/in/dhakerabdesslem/)  
 - **Facebook** : [@abdesslemdhakerr](https://www.facebook.com/@abdesslemdhakerr)  
