@@ -63,7 +63,6 @@ En tant que Secrétaire Général de la JCI Ouardanine, Dhaker gère les fonctio
 
 ## Récompenses et reconnaissances
 
-- **Membre le plus remarquable (2022)** : Dhaker a été récompensé pour ses contributions exceptionnelles à JCI Ouardanine en 2022.
 - **Membre le plus remarquable (2023)** : Dhaker a été récompensé pour ses contributions exceptionnelles à JCI Ouardanine en 2023.
 - **Nouveau membre le plus remarquable (2023)** : Dhaker a été récompensé pour ses contributions exceptionnelles au sein de la région du Centre-Est de la JCI.
 
@@ -77,6 +76,6 @@ En tant que Secrétaire Général de la JCI Ouardanine, Dhaker gère les fonctio
 
 - **Instagram** : [@abdesslemdhaker](https://www.instagram.com/abdesslemdhaker)  
 - **LinkedIn** : [Dhaker Abdesslem](https://www.linkedin.com/in/dhakerabdesslem/)  
-- **Facebook** : [@abdesslemdhakerr](https://www.facebook.com/@abdesslemdhakerr)  
+- **Facebook** : [@dhakerabdesslem](https://www.facebook.com/@dhakerabdesslem)  
 - **TikTok** : [@dhakerabdesslem](https://www.tiktok.com/@dhakerabdesslem)  
 - **YouTube** : [Dhaker Abdesslem](https://www.youtube.com/@dhakerabdesslem)
