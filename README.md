@@ -1,12 +1,12 @@
 # Dhaker Abdesslem
 
-**Profession** : Développeur web, entrepreneur, et activiste social  
+**Profession** : entrepreneur, et activiste social  
 **Nationalité** : Tunisienne  
 **Date de naissance** : 22 novembre 1999  
 
 ## Biographie
 
-Dhaker Abdesslem est un développeur web et entrepreneur tunisien, reconnu pour son engagement communautaire, ses initiatives dans le domaine numérique et ses compétences en leadership. Avec un parcours marqué par des réussites professionnelles et un dévouement au développement communautaire, Dhaker est une figure montante dans le paysage entrepreneurial et associatif tunisien.
+Dhaker Abdesslem est un entrepreneur tunisien, reconnu pour son engagement communautaire, ses initiatives dans le domaine numérique et ses compétences en leadership. Avec un parcours marqué par des réussites professionnelles et un dévouement au développement communautaire, Dhaker est une figure montante dans le paysage entrepreneurial et associatif tunisien.
 
 ## Carrière Professionnelle
 
