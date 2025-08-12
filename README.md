@@ -10,11 +10,11 @@ Dhaker Abdesslem est un entrepreneur tunisien, reconnu pour son engagement commu
 
 ## Carrière Professionnelle
 
-### Asslema Digital | Marketing & Communication
+### AzulBrand
 **Co-Fondateur**  
 *Novembre 2024 - Présent*  
 Ouardanine, Monastir, Tunisie · Remote  
-Asslema Digital est une entreprise spécialisée dans le marketing digital et la communication. En tant que co-fondateur, Dhaker dirige la stratégie marketing, la communication digitale et le développement des services technologiques pour les entreprises locales et internationales.
+Azulbrand Digital est une projet spécialisée dans le marketing digital et la communication. En tant que co-fondateur, Dhaker dirige la stratégie marketing, la communication digitale et le développement des services technologiques pour les entreprises locales et internationales.
 
 ### Dev Excellence
 **Web Developer (Stage)**  
