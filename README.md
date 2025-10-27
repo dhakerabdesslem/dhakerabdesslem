@@ -15,7 +15,7 @@ Dhaker Abdesslem est un entrepreneur tunisien, reconnu pour son engagement commu
 *Octobre 2025 - Présent*
 Ouardanine, Monastir, Tunisie
 
-[cite_start]En tant qu'animateur et créateur du programme "Warda Business", Dhaker a lancé une émission radio-télévisée hebdomadaire de 20 minutes dédiée à la promotion des jeunes entrepreneurs et des petites entreprises de la région de Ouardanine[cite: 72, 229, 308, 446]. [cite_start]Il mène des interviews approfondies avec des créateurs, des artisans et des innovateurs locaux pour mettre en lumière leurs parcours, leurs défis et leurs réussites[cite: 80, 237, 324, 454]. [cite_start]L'émission vise à inspirer la communauté locale, à encourager la culture entrepreneuriale et à créer des ponts entre les porteurs de projets et le public[cite: 74, 231, 310, 448].
+À la tête de son émission "Warda Business", Dhaker offre une plateforme médiatique aux jeunes entrepreneurs et petites entreprises de la région de Ouardanine. Chaque semaine, il mène des interviews inspirantes avec des artisans et innovateurs pour partager leurs histoires, leurs défis et leurs succès. Son objectif : stimuler l'esprit d'entreprise local et connecter les talents de demain avec la communauté.
 
 ### AzulBrand
 **Co-Fondateur**
