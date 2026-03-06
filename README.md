@@ -17,12 +17,6 @@ Ouardanine, Monastir, Tunisie
 
 À la tête de son émission "Warda Business", Dhaker offre une plateforme médiatique aux jeunes entrepreneurs et petites entreprises de la région de Ouardanine. Chaque semaine, il mène des interviews inspirantes avec des artisans et innovateurs pour partager leurs histoires, leurs défis et leurs succès. Son objectif : stimuler l'esprit d'entreprise local et connecter les talents de demain avec la communauté.
 
-### AzulBrand
-**Co-Fondateur**
-*Novembre 2024 - Présent*
-Ouardanine, Monastir, Tunisie · Remote
-Azulbrand Digital est une projet spécialisée dans le marketing digital et la communication. En tant que co-fondateur, Dhaker dirige la stratégie marketing, la communication digitale et le développement des services technologiques pour les entreprises locales et internationales.
-
 ### Dev Excellence
 **Web Developer (Stage)**
 *Mai 2024 - Août 2024*
