@@ -1,65 +1,61 @@
-👨‍💻 À propos de moi
+# 👋 Salut, je suis Dhaker Abdesslem
+**Formateur | Animateur | Leader JCI**
 
-Né le 22 novembre 1999 à Sousse (Tunisie), j'ai construit une carrière diversifiée à la croisée de l'engagement civique, de la formation, des médias et de la technologie. Je mets mes compétences techniques et de communicateur au service de l'action sociale et de l'autonomisation (empowerment) des jeunes.
+Directeur créatif et militant social passionné par l'autonomisation des jeunes, le leadership et l'innovation technologique. Basé à Sousse, Tunisie. 🇹🇳
 
-🌍 Nationalité : Tunisien (Résidant en Tunisie)
+---
 
-🏢 Activités : Leader JCI, Formateur, Co-fondateur d'AzulBrand
+### 🚀 À propos de moi
+Je suis un professionnel polyvalent dont le parcours se situe à l'intersection de l'engagement civique, de la formation, des médias et de la technologie. Mon objectif est d'allier mes compétences techniques à mon aisance en communication pour créer un impact social positif.
 
-🎯 Mission : Stimuler l'esprit d'entreprise local et connecter les talents de demain.
+* **🎙️ Médias :** Créateur et animateur de l'émission *"Warda Business"* sur Radio Web Warda.
+* **🤝 Engagement :** Leader actif au sein de la Jeune Chambre Internationale (JCI).
+* **🛠️ Tech :** Développeur Web spécialisé dans la création de solutions numériques à fort impact.
 
-🌟 Engagement JCI (Jeune Chambre Internationale)
+---
 
-Mon parcours au sein du réseau JCI témoigne d'une évolution rapide et d'un leadership reconnu, du niveau local au niveau national.
+### 🏛️ Parcours JCI (Jeune Chambre Internationale)
+*Mon évolution au sein du mouvement JCI témoigne de mon engagement pour le leadership local et national.*
 
-📍 JCI Ouardanine (Niveau Local)
+* **2025 :** Vice-président chargé des programmes et des relations externes (VPPRE) - **JCI Ouardanine**
+* **2025 :** Membre de l’équipe médias - **JCI Zone Centre-Est**
+* **2024 :** Secrétaire Général - **JCI Ouardanine**
+* **2023 :** Directeur Médias
+* **Technologie JCI :** Concepteur de la plateforme nationale **JCET 2024** et développeur du site officiel de la JCI Ouardanine.
 
-2025 : 👔 Vice-président (VPPRE) - Chargé des programmes et des relations externes.
+---
 
-2024 : 📝 Secrétaire Général.
+### 🛠️ Compétences Techniques & Soft Skills
 
-2023 : 📸 Directeur Médias.
+| **Domaine** | **Compétences** |
+| :--- | :--- |
+| **Développement Web** | React.js, Node.js, Next.js, MongoDB, HTML5, JavaScript, Bootstrap |
+| **Communication** | Prise de parole en public, Animation radio, Interviewing |
+| **Leadership** | Gestion d'équipe, Conception de programmes, Relations externes |
+| **Design** | Multimédia, Design de ressources numériques, Branding |
 
-2022 : 🤝 Membre actif.
+---
 
-🇹🇳 Implication Régionale & Nationale
+### 🎙️ Expérience Média
+**Radio Web Warda** (Depuis Octobre 2025)
+Animateur de **"Warda Business"**. J'interviewe chaque semaine des artisans, innovateurs et entrepreneurs pour mettre en lumière l'écosystème entrepreneurial tunisien et inspirer la nouvelle génération.
 
-2025 : Membre de l’équipe médias de la JCI Zone Centre-Est.
+---
 
-Tech for JCI : - 💻 Concepteur et développeur de la plateforme nationale JCET 2024 pour la JCI Tunisie.
+### 🎓 Formation & Distinctions
+* **🎓 BTS en Multimédia & Design Web** – IMSET Tunisie (2024)
+* **🏆 Meilleur nouveau membre** – JCI Zone Centre-Est (2023)
+* **🏆 Membre le plus remarquable** – JCI Ouardanine (2023)
 
-🌐 Développeur du site web officiel de la JCI Ouardanine.
+---
 
-🎙️ Médias et Animation
+### 📱 Retrouvez-moi sur les réseaux
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhakerabdesslem/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdesslemdhaker)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/@dhakerabdesslem)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dhakerabdesslem)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dhakerabdesslem)
 
-En parallèle de mes responsabilités associatives, je suis un formateur et un communicant orienté vers la transmission du savoir.
+---
 
-📻 Radio Web Warda — Créateur & Animateur (Depuis Oct. 2025) : Créateur de l'émission "Warda Business". J'y mène des interviews hebdomadaires inspirantes avec des artisans, innovateurs et entrepreneurs.
-
-🛠️ Compétences
-
-💻 Stack Technique
-
-🗣️ Soft Skills & Leadership
-
-Prise de parole en public (Public speaking)
-
-Conception de programmes à fort impact
-
-Animation d'ateliers & Conduite d'interviews
-
-Marketing digital & Création de contenu
-
-🎓 Formation & 🏆 Distinctions
-
-🎓 Brevet de Technicien Supérieur (BTS) — IMSET Tunisie (Mars 2022 – Mars 2024) | Spécialisation : Conception web et design multimédia.
-
-🥇 Meilleur nouveau membre (2023) — JCI Zone Centre-Est
-
-🏅 Membre le plus remarquable (2023) — JCI Ouardanine
-
-📊 Statistiques GitHub
-
-(Assure-toi de remplacer DhakerAbdesslem par ton vrai nom d'utilisateur GitHub dans les liens ci-dessous si différent)
-
-📫 Connectons-nous !
+⭐️ *Ce profil reflète ma passion pour le partage de savoir et l'innovation.*
