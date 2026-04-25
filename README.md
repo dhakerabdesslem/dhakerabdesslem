@@ -1,61 +1,72 @@
 # 👋 Salut, je suis Dhaker Abdesslem
-**Formateur | Animateur | Leader JCI**
+**Formateur Certifié (TOT) | Développeur Web | Animateur | Leader JCI**
 
-Directeur créatif et militant social passionné par l'autonomisation des jeunes, le leadership et l'innovation technologique. Basé à Sousse, Tunisie. 🇹🇳
+> *Directeur créatif et militant social passionné par l'autonomisation des jeunes, le leadership et l'innovation technologique. Basé à Sousse, Tunisie. 🇹🇳*
 
 ---
 
 ### 🚀 À propos de moi
-Je suis un professionnel polyvalent dont le parcours se situe à l'intersection de l'engagement civique, de la formation, des médias et de la technologie. Mon objectif est d'allier mes compétences techniques à mon aisance en communication pour créer un impact social positif.
+Mon parcours se situe à l'intersection de l'engagement civique, des médias et de la technologie. Mon objectif est d'allier mes compétences de développeur à mon aisance en communication pour créer un véritable impact social.
 
+* **💻 Tech :** Développeur Web créant des solutions numériques et des plateformes à fort impact.
 * **🎙️ Médias :** Créateur et animateur de l'émission *"Warda Business"* sur Radio Web Warda.
-* **🤝 Engagement :** Leader actif au sein de la Jeune Chambre Internationale (JCI).
-* **🛠️ Tech :** Développeur Web spécialisé dans la création de solutions numériques à fort impact.
+* **🤝 Engagement :** Leader actif et concepteur de programmes au sein de la Jeune Chambre Internationale (JCI).
+* **📚 Transmission :** Formateur passionné, spécialisé dans le transfert de compétences (outils digitaux, prise de parole).
 
 ---
 
-### 🏛️ Parcours JCI (Jeune Chambre Internationale)
-*Mon évolution au sein du mouvement JCI témoigne de mon engagement pour le leadership local et national.*
+### 💻 Stack Technique & Outils
 
-* **2025 :** Vice-président chargé des programmes et des relations externes (VPPRE) - **JCI Ouardanine**
-* **2025 :** Membre de l’équipe médias - **JCI Zone Centre-Est**
-* **2024 :** Secrétaire Général - **JCI Ouardanine**
-* **2023 :** Directeur Médias
-* **Technologie JCI :** Concepteur de la plateforme nationale **JCET 2024** et développeur du site officiel de la JCI Ouardanine.
+**Développement Front-End & Back-End** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
-### 🛠️ Compétences Techniques & Soft Skills
-
-| **Domaine** | **Compétences** |
-| :--- | :--- |
-| **Développement Web** | React.js, Node.js, Next.js, MongoDB, HTML5, JavaScript, Bootstrap |
-| **Communication** | Prise de parole en public, Animation radio, Interviewing |
-| **Leadership** | Gestion d'équipe, Conception de programmes, Relations externes |
-| **Design** | Multimédia, Design de ressources numériques, Branding |
+**Design, Médias & Gestion** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![SEO & Domaines](https://img.shields.io/badge/SEO_&_Webmastering-FF5722?style=for-the-badge&logo=google&logoColor=white)
+![Broadcasting](https://img.shields.io/badge/Animation_Radio-FF0000?style=for-the-badge&logo=podcast&logoColor=white)
 
 ---
 
-### 🎙️ Expérience Média
-**Radio Web Warda** (Depuis Octobre 2025)
-Animateur de **"Warda Business"**. J'interviewe chaque semaine des artisans, innovateurs et entrepreneurs pour mettre en lumière l'écosystème entrepreneurial tunisien et inspirer la nouvelle génération.
+### 🏛️ Engagements & Réalisations JCI
+
+* **2025 :** Vice-président (VPPRE) - **JCI Ouardanine** & Membre de l’équipe médias **Zone Centre-Est**.
+* **2024 :** Secrétaire Général - **JCI Ouardanine**.
+* **2023 :** Directeur Médias.
+* **🌐 Projets Tech JCI :** Concepteur de la plateforme nationale **JCET 2024** et développeur du site web officiel de la JCI Ouardanine.
 
 ---
 
-### 🎓 Formation & Distinctions
+### 🎙️ Expérience Média & Formation
+* **Radio Web Warda :** Animateur de l'émission **"Warda Business"**. J'interviewe des artisans, des innovateurs et des acteurs locaux pour mettre en lumière des parcours inspirants et stimuler les talents de demain.
+* **Formation :** En tant que formateur certifié, j'organise régulièrement des ateliers (comme la maîtrise d'outils de design numérique sur PC) et des sessions de prise de parole en public.
+
+---
+
+### 🎓 Parcours & Distinctions
+* **🏅 Formateur Certifié (TOT)** (Octobre 2025)
 * **🎓 BTS en Multimédia & Design Web** – IMSET Tunisie (2024)
 * **🏆 Meilleur nouveau membre** – JCI Zone Centre-Est (2023)
 * **🏆 Membre le plus remarquable** – JCI Ouardanine (2023)
 
 ---
 
-### 📱 Retrouvez-moi sur les réseaux
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhakerabdesslem/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdesslemdhaker)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/@dhakerabdesslem)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dhakerabdesslem)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dhakerabdesslem)
+### 📊 Mes Statistiques GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_DUTILISATEUR&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de Dhaker" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_DUTILISATEUR&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+</div>
 
 ---
 
-⭐️ *Ce profil reflète ma passion pour le partage de savoir et l'innovation.*
+### 📱 Restons connectés
+<p align="left">
+<a href="https://www.linkedin.com/in/dhakerabdesslem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdesslemdhaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/@dhakerabdesslem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dhakerabdesslem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
