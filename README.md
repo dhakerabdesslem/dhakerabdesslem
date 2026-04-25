@@ -1,84 +1,62 @@
-# Dhaker Abdesslem
+{{Infobox Biographie
+| nom = Dhaker Abdesslem
+| image = Dhaker abdesslem.png
+| nom de naissance = ذاكر عبدالسلام
+| date de naissance = {{date de naissance|22|11|1999|âge=oui}}
+| lieu de naissance = [[Sousse]] ([[Tunisie]])
+| nationalité = [[Tunisie|Tunisien]]
+| pays de résidence = Tunisie
+| profession = Formateur, Animateur et Entrepreneur
+| activités = Leader JCI, Formateur, Co-fondateur AzulBrand
+}}'''Dhaker Abdesslem''' (né le 22 novembre 1999) est un formateur, animateur, militant social et entrepreneur tunisien. Il est particulièrement reconnu pour son engagement actif et son leadership au sein de la Jeune Chambre Internationale (JCI), ainsi que pour ses compétences en prise de parole en public, en animation médiatique et en conception de programmes à fort impact.
 
-**Profession** : entrepreneur, et activiste social
-**Nationalité** : Tunisienne
-**Date de naissance** : 22 novembre 1999
+== Biographie ==
+Dhaker Abdesslem a construit une carrière diversifiée à la croisée de l'engagement civique, de la formation, des médias et de la technologie. Très impliqué dans le développement de la jeunesse et de l'écosystème entrepreneurial local, il met ses compétences techniques et de communicateur au service de l'action sociale et de l'autonomisation (empowerment) des jeunes.
 
-## Biographie
+== Engagement JCI (Jeune Chambre Internationale) ==
+Son parcours au sein du réseau JCI témoigne d'une évolution rapide et d'un leadership reconnu, s'illustrant à la fois au niveau local (JCI Ouardanine), régional et national.
 
-Dhaker Abdesslem est un entrepreneur tunisien, reconnu pour son engagement communautaire, ses initiatives dans le domaine numérique et ses compétences en leadership. Il est également l'animateur et créateur du programme **"Warda Business"**, une émission dédiée à la mise en lumière des entrepreneurs de sa région, démontrant ainsi sa capacité à allier médias et développement communautaire. Avec un parcours marqué par des réussites professionnelles et un dévouement au service de la communauté, Dhaker est une figure montante dans le paysage entrepreneurial et associatif tunisien.
+'''Évolution et responsabilités locales (JCI Ouardanine) :'''
 
-## Carrière Professionnelle
+** '''2022 :''' Membre actif.
+** '''2023 :''' Directeur Médias.
+** '''2024 :''' Secrétaire Général.
+** '''2025 :''' Vice-président chargé des programmes et des relations externes (VPPRE). À ce titre, il conçoit des programmes à fort impact, gère les relations externes et coordonne les équipes pour maximiser l'influence de l'organisation locale.
 
-### Radio Web Warda
-**Animateur et Créateur de l'émission "Warda Business"**
-*Octobre 2025 - Présent*
-Ouardanine, Monastir, Tunisie
+'''Implication régionale et nationale :'''
 
-À la tête de son émission "Warda Business", Dhaker offre une plateforme médiatique aux jeunes entrepreneurs et petites entreprises de la région de Ouardanine. Chaque semaine, il mène des interviews inspirantes avec des artisans et innovateurs pour partager leurs histoires, leurs défis et leurs succès. Son objectif : stimuler l'esprit d'entreprise local et connecter les talents de demain avec la communauté.
+** '''2025 :''' Membre de l’équipe médias de la '''JCI Zone Centre-Est'''.
+** '''Technologie au service de la JCI :''' Il a allié ses compétences techniques à son engagement en concevant la plateforme nationale '''JCET 2024''' pour JCI Tunisie. Il est également le développeur du site web officiel de la JCI Ouardanine, modernisant ainsi la communication et la gestion de l'organisation.
 
-### Dev Excellence
-**Web Developer (Stage)**
-*Mai 2024 - Août 2024*
-Monastir, Gouvernorat Monastir, Tunisie · Remote
-Au cours de son stage chez Dev Excellence, Dhaker a acquis une expérience pratique en développement web full-stack. Il a collaboré avec une équipe diversifiée pour livrer des solutions web innovantes et a perfectionné ses compétences sur des technologies modernes comme HTML, Bootstrap, JavaScript, Node.js, MongoDB, et React.js. Il a conçu des interfaces web responsives, intégré des API backend, et géré des bases de données.
+== Parcours de Animateur et Médias ==
+En parallèle de ses responsabilités associatives, Dhaker s'est imposé comme un formateur (trainer) et un communicant de talent, orienté vers la transmission de savoir.
 
-### HK Vision
-**Social Media Manager (Freelance)**
-*Octobre 2023 - Novembre 2023*
-Ouardanine, Monastir, Tunisie · Remote
-En tant que Social Media Manager freelance, Dhaker était responsable de la gestion des stratégies sociales et de l'engagement client sur les réseaux sociaux. Il a créé du contenu ciblé, conçu des supports promotionnels, et géré plusieurs comptes de médias sociaux pour améliorer la visibilité de la marque.
+'''Radio Web Warda — Animateur et Créateur (Depuis Octobre 2025) :''' Créateur et animateur de l'émission ''"Warda Business"''. Chaque semaine, il mène des interviews inspirantes avec des artisans, des innovateurs et des entrepreneurs pour partager leurs histoires, défis et succès. Son objectif est de stimuler l'esprit d'entreprise local et de connecter les talents de demain.
 
-### JCI Ouardanine
-**Web Developer (PFE)**
-Dhaker a contribué à la création du site web de la JCI Ouardanine. Ce projet a permis à l'organisation d'améliorer sa visibilité en ligne, de renforcer sa communication, et de mieux gérer ses activités et ses membres.
+== Formation académique ==
+'''IMSET Tunisie''' — Brevet de Technicien Supérieur (mars 2022 – mars 2024), avec une spécialisation en conception de pages web, ressources numériques et design multimédia.
 
-## Engagement à la JCI
+== Distinctions et Récompenses ==
+Ses qualités d'orateur, son leadership et son dévouement communautaire lui ont valu des reconnaissances prestigieuses :
 
-### JCI Ouardanine (2022 - Présent)
+'''Meilleur nouveau membre''' (JCI Zone Centre-Est, 2023) : Récompensé pour ses contributions exceptionnelles au niveau régional.
 
-- **2022** : Membre Actif, s'engageant dans des activités locales.
-- **2023** : Directeur Média, responsable des initiatives médiatiques de l'organisation.
-- **2024** : Secrétaire Général, coordonne les opérations internes et soutient la mise en œuvre des projets.
-- **2025** : Vice-Président en charge des Programmes et des Relations Extérieures (VPPRE), responsable de la conception de programmes et du renforcement des relations externes.
+'''Membre le plus remarquable''' (JCI Ouardanine, 2023) : Distinction locale pour son impact direct sur son organisation.
 
-## Éducation
+== Compétences ==
+'''Formation et Leadership :''' Prise de parole en public (Public speaking), conception de programmes à fort impact, animation d'ateliers, gestion des relations externes et coordination d'équipe.
 
-### IMSET Tunisie
-**Certificat de Technicien Supérieur**
-*Mars 2022 - Mars 2024*
-Spécialisation : Conception de Pages Web, Ressources Numériques/Multimédia et Design d'Informations
-Durant ses études, Dhaker a développé des compétences techniques en design web et développement, se spécialisant dans des technologies modernes comme React.js, Node.js, Next.js, MongoDB, et la création de ressources graphiques.
+'''Médias et Communication :''' Animation de programmes (radio/web), conduite d'interviews, création de contenu audiovisuel, marketing digital.
 
-## Volontariat
+'''Technique :''' Développement web (React.js, Node.js, Next.js, MongoDB, HTML, JS, Bootstrap).
 
-### JCI Tunisie
-**Web Developer (Volontaire)**
-*Janvier 2024*
-Dhaker a contribué au développement de la plateforme JCET 2024, un hub de ressources pour les membres de la JCI. Cette plateforme facilite l'accès aux outils et documents essentiels, encourage le partage des meilleures pratiques, et soutient les projets au sein de l'organisation.
+== Liens externes ==
+[https://www.instagram.com/abdesslemdhaker Instagram — @abdesslemdhaker]
 
-### JCI Ouardanine
-**Secrétaire Général**
-*Janvier 2024 - Présent*
-En tant que Secrétaire Général de la JCI Ouardanine, Dhaker gère les fonctions administratives de l'organisation, assure la bonne marche des opérations, et soutient la mise en œuvre des initiatives stratégiques.
+[https://www.linkedin.com/in/dhakerabdesslem/ LinkedIn — Dhaker Abdesslem]
 
-## Récompenses et reconnaissances
+[https://www.facebook.com/@dhakerabdesslem Facebook — @dhakerabdesslem]
 
-- **Membre le plus remarquable (2023)** : Dhaker a été récompensé pour ses contributions exceptionnelles à JCI Ouardanine en 2023.
-- **Nouveau membre le plus remarquable (2023)** : Dhaker a été récompensé pour ses contributions exceptionnelles au sein de la région du Centre-Est de la JCI.
+[https://www.tiktok.com/@dhakerabdesslem TikTok — @dhakerabdesslem]
 
-## Compétences et Technologies
-
-- **Web Development** : React.js, Node.js, Next.js, MongoDB, HTML, JavaScript, Bootstrap
-- **Digital Marketing & Communication** : Stratégie de marketing digital, gestion des réseaux sociaux, création de contenu
-- **Leadership et gestion de projets** : Conception de programmes à fort impact, gestion des relations externes, coordination d’équipe
-- **Média et Prise de parole** : Animation de programmes radio-télévisés, conduite d'interviews, création de contenu audiovisuel, prise de parole en public
-
-## Liens externes
-
-- **Instagram** : [@abdesslemdhaker](https://www.instagram.com/abdesslemdhaker)
-- **LinkedIn** : [Dhaker Abdesslem](https://www.linkedin.com/in/dhakerabdesslem/)
-- **Facebook** : [@dhakerabdesslem](https://www.facebook.com/@dhakerabdesslem)
-- **TikTok** : [@dhakerabdesslem](https://www.tiktok.com/@dhakerabdesslem)
-- **YouTube** : [Dhaker Abdesslem](https://www.youtube.com/@dhakerabdesslem)
-- **SiteWeb** : [Dhaker WebSite](https://dhaker.me)
+[https://www.youtube.com/@dhakerabdesslem YouTube — Dhaker Abdesslem]
