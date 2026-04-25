@@ -36,7 +36,7 @@ Mon parcours se situe à l'intersection de l'engagement civique, des médias et 
 * **2025 :** Vice-président (VPPRE) - **JCI Ouardanine** & Membre de l’équipe médias **Zone Centre-Est**.
 * **2024 :** Secrétaire Général - **JCI Ouardanine**.
 * **2023 :** Directeur Médias.
-* **🌐 Projets Tech JCI :** Concepteur de la plateforme nationale **JCET 2024** et développeur du site web officiel de la JCI Ouardanine.
+* **🌐 Projets Tech JCI :** Concepteur de la plateforme nationale **JCET 2024** .
 
 ---
 
