@@ -54,15 +54,6 @@ Mon parcours se situe à l'intersection de l'engagement civique, des médias et 
 
 ---
 
-### 📊 Mes Statistiques GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhakerabdesslem&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de Dhaker" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakerabdesslem&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
-</div>
-
----
-
 ### 📱 Restons connectés
 <p align="left">
 <a href="https://www.linkedin.com/in/dhakerabdesslem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
