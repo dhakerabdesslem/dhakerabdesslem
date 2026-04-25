@@ -56,9 +56,9 @@ Mon parcours se situe à l'intersection de l'engagement civique, des médias et 
 
 ### 📊 Mes Statistiques GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_DUTILISATEUR&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de Dhaker" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhakerabdesslem&show_icons=true&theme=radical&hide_border=true" alt="Statistiques de Dhaker" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_DUTILISATEUR&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakerabdesslem&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </div>
 
 ---
