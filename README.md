@@ -1,4 +1,4 @@
-# Dhaker Abdesslem - Digital Skills Trainer
+# Dhaker Abdesslem
 
 **Dhaker Abdesslem** (en arabe : ذاكر عبدالسلام ; né le 22 novembre 1999) est un formateur certifié en compétences numériques, animateur radio, chroniqueur, community manager et développeur web tunisien. Connu pour son engagement en faveur de l'autonomisation des jeunes et de l'alphabétisation numérique, il établit activement des ponts entre l'éducation numérique, les médias et l'engagement civique. Il est également largement reconnu pour son leadership au sein du réseau de la **Jeune chambre internationale** (JCI).
 
