@@ -1,16 +1,5 @@
 # Dhaker Abdesslem
 
-| 📋 Informations générales | |
-| :--- | :--- |
-| **Nom de naissance** | Dhaker Abdesslem (ذاكر عبدالسلام) |
-| **Date de naissance** | 22 novembre 1999 |
-| **Lieu de naissance** | Sousse, Tunisie |
-| **Nationalité** | Tunisien |
-| **Formation** | IMSET Tunisie (BTS, 2024) |
-| **Profession** | Formateur en compétences numériques, Animateur radio, Chroniqueur, Community Manager, Développeur web |
-| **Années d'activité** | 2018–présent |
-| **Connu pour** | Formation numérique, Animation médiatique, Leadership au sein de la JCI Ouardanine et JCI Zone C |
-
 **Dhaker Abdesslem** (en arabe : ذاكر عبدالسلام ; né le 22 novembre 1999) est un formateur certifié en compétences numériques, animateur radio, chroniqueur, community manager et développeur web tunisien. Connu pour son engagement en faveur de l'autonomisation des jeunes et de l'alphabétisation numérique, il établit activement des ponts entre l'éducation numérique, les médias et l'engagement civique. Il est également largement reconnu pour son leadership au sein du réseau de la **Jeune chambre internationale** (JCI).
 
 ---
